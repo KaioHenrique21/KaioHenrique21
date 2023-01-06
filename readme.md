@@ -4,19 +4,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Visualizações&color=0e75b6&style=for-the-badge" alt="sum117" /> </p>
 <img align="left" width="256" height="256" src="https://avatars.githubusercontent.com/u/82170004?v=4"/>
 
-📌 No meu tempo livre, estou trabalhando na [Moniqueta](https://github.com/sum117/Moniqueta-Discord.js)
+📌 No meu tempo livre, estou estudando na RocktSeat
 
-🌱 Ando estudando... **React.js, Python, Regex e Powershell.**
+🌱 Ando estudando... **React.js, Node.js, JavaScript e Css.**
 
-🤝 No momento, ando interessado em colaborar em projetos com o pacote [Discord.js](https://github.com/discordjs/discord.js)
+🤝 No momento, ando interessado em finalizar os meus projetos de estudos
 
 💬 Peça minha ajuda com **react, js, py**
 
-📫 Entre em contato comigo: **jvcaliman@hotmail.com**
+📫 Entre em contato comigo: **kaiohenrique018@hotmail.com**
 
-**Warning**: All my archived repositories are unfinished projects that I don't intend to continue (Todos os meus repositorios arquivados são projetos não finalizados que eu não pretendo continuar (A maioria deles)).
+**Warning**: All my archived repositories are unfinished projects that I don't intend to continue (Todos os meus repositorios arquivados são projetos não finalizados (A maioria deles)).
 
-❔ **Meu nome de usuário é baseado no significado numerológico da soma dele.**
+❔
 <p align="left">
 <a href="https://stackoverflow.com/users/19334436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19334436" height="30" width="40" /></a>
 <a href="https://instagram.com/jvwpcaliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvwpcaliman" height="30" width="40" /></a>
