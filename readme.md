@@ -1,6 +1,6 @@
 <h1 align="center">Kaio Henrique</h1>
 
-<h3 align="center">Um Estagiário de Desenvolvimento apaixonado por tecnologia e amante de design.</h3>
+<h3 align="center">Um Desenvolvedor em Desenvolvimento, apaixonado por tecnologia e amante de design.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Visualizações&color=0e75b6&style=for-the-badge" alt="KaioHenrique21" /> </p>
 <img align="left" width="256" height="256" src="https://avatars.githubusercontent.com/u/82170004?v=4"/>
 
